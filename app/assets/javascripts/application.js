@@ -11,5 +11,10 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
-//= require jquery_ujs
-//= require_tree .
+//= require jquery-1.7.2.min.js
+//= require jquery.mousewheel.js
+//= require jquery.scrollTo.js
+//= require bootstrap.min.js
+//= require bootmetro.js
+//= require bootmetro-charms.js
+//= require demo.js
